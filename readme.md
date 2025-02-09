@@ -1,0 +1,1 @@
+This is a simple invoice management system created using OOPS in C++ programming language. It holds the class, object, inheritance, polymorphism principles of OOPS concept. 
